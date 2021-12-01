@@ -29,9 +29,9 @@ Si quieres ver un video de demostracion del programa, pulsa [aqui](https://drive
 
 Para hacer que el programa se ejecute al arrancar tu raspberrey tambien haz lo siguiente:
 
-1.Ejecuta en un terminal: chmod +x programaseleccionado.
-2.Ejecuta en un terminal sudo crontab -e.
-3.Edita el fichero y escribe: python3 rutaabsolutadetufichero.
-4.Reinicia tu raspbery y ya lo tendrias.
+1. Ejecuta en un terminal: chmod +x programaseleccionado.
+2. Ejecuta en un terminal sudo crontab -e.
+3. Edita el fichero y escribe: python3 rutaabsolutadetufichero.
+4. Reinicia tu raspbery y ya lo tendrias.
 
 Para cualquier duda: <a.cobo.2020@alumos.urjc.es>
